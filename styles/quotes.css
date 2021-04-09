@@ -1,0 +1,9 @@
+.quotes__header {
+    text-align: center;
+}
+
+.quote {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 1em;
+}

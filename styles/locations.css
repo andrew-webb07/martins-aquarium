@@ -1,0 +1,26 @@
+.locations__header {
+    text-align: center;
+}
+
+.locations {
+    margin: 2em;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.location {
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
+}
+
+.location__image {
+    max-height: 4em;
+}
+
+.location__info {
+    display: flex;
+    flex-direction: column;
+}
+

@@ -1,0 +1,8 @@
+.tips {
+ flex-basis: 1;
+ background-color: blanchedalmond;
+}
+
+.tips__header {
+    text-align: center;
+}

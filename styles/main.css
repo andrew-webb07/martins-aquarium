@@ -1,0 +1,18 @@
+@import "./locations.css";
+@import "./fishes.css";
+@import "./quotes.css";
+@import "./tips.css";
+
+.header__home {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+main {
+    display: flex;
+}
+
+.flex-container-left {
+    width: 75%;
+}
+

@@ -1,0 +1,13 @@
+
+.fishes {
+    display: flex;
+    margin: 2em;
+}
+.fishes__header {
+    text-align: center;
+}
+
+.fish__image {
+    max-height: 4em;
+    width: 45%;
+}
