@@ -1,13 +1,25 @@
 
 .fishes {
     display: flex;
+    flex-wrap: wrap;
     margin: 2em;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+    padding: 2em;
 }
 .fishes__header {
     text-align: center;
 }
 
+.fish__name {
+    text-align: center;
+    
+}
+
+.fish {
+    margin: 0 2em;
+}
+
 .fish__image {
     max-height: 4em;
-    width: 45%;
 }

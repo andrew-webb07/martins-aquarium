@@ -2,8 +2,15 @@
     text-align: center;
 }
 
+.quotes {
+    margin: 1em;
+    background-color: blanchedalmond;
+    padding: 2em;
+}
+
 .quote {
     display: flex;
     justify-content: space-evenly;
-    margin: 0 1em;
+    flex-wrap: wrap;
+    margin: 1em;
 }

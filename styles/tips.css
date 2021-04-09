@@ -1,8 +1,12 @@
 .tips {
- flex-basis: 1;
+ display: flex;
+ flex: 1;
  background-color: blanchedalmond;
+ margin: 2em;
 }
 
 .tips__header {
     text-align: center;
+    background-color: white;
+    margin: 1em;
 }
