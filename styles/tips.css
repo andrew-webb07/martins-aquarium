@@ -1,12 +1,22 @@
+.flex-container-right {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
 .tips {
  display: flex;
  flex: 1;
  background-color: blanchedalmond;
- margin: 2em;
+ margin: 1.6em;
+ padding: 1em;
+ box-shadow: 0 0 1em black;
 }
 
 .tips__header {
     text-align: center;
-    background-color: white;
-    margin: 1em;
+    background-color: blanchedalmond;
+    flex: 1;
+    margin-left: 1em;
+    margin-right: 1em;
 }
